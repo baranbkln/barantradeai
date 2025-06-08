@@ -1,0 +1,23 @@
+{
+  "symbol": "ETH/USDT",
+  "future_period": 12,
+  "threshold": 0.005,
+  "prob_threshold": 0.55,
+  "feature_importance": {
+    "rsi": 0.05113076791167259,
+    "macd": 0.07570134848356247,
+    "macd_signal": 0.07846342027187347,
+    "macd_hist": 0.07579448819160461,
+    "ema_9": 0.10990302264690399,
+    "ema_21": 0.10289524495601654,
+    "bb_upper": 0.08903128653764725,
+    "bb_lower": 0.1261289417743683,
+    "bb_middle": 0.14653314650058746,
+    "volume": 0.042098451405763626,
+    "volume_ema": 0.10231985151767731
+  },
+  "position": 0.0,
+  "entry_price": 0.0,
+  "balance": 10000,
+  "market_start_price": 2513.93
+}

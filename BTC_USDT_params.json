@@ -1,0 +1,23 @@
+{
+  "symbol": "BTC/USDT",
+  "future_period": 12,
+  "threshold": 0.005,
+  "prob_threshold": 0.55,
+  "feature_importance": {
+    "rsi": 0.057235635817050934,
+    "macd": 0.06876031309366226,
+    "macd_signal": 0.08040161430835724,
+    "macd_hist": 0.07652075588703156,
+    "ema_9": 0.10428839921951294,
+    "ema_21": 0.09960610419511795,
+    "bb_upper": 0.10340006649494171,
+    "bb_lower": 0.14531949162483215,
+    "bb_middle": 0.10715151578187943,
+    "volume": 0.046114563941955566,
+    "volume_ema": 0.11120150238275528
+  },
+  "position": 0.0,
+  "entry_price": 0.0,
+  "balance": 10000,
+  "market_start_price": 105540.0
+}
