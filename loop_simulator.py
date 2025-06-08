@@ -10,7 +10,7 @@ from simulation import run_simulation
 
 SYMBOLS = ["ETH/USDT", "BTC/USDT"]
 GITHUB_DIR = "Github"
-DOCS_DIR = f"docs"
+DOCS_DIR = f"{GITHUB_DIR}/docs"
 
 def update_github_pages():
     print("📁 Copying PNGs to GitHub Pages /docs folder...")
